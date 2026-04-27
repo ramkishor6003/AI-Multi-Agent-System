@@ -6,7 +6,7 @@ A professional Multi-Agent Research System using LangGraph, Groq (Llama 3), and 
 
 https://github.com/user-attachments/assets/8ac76fcd-9ef8-41fb-b030-96ccb5c67348
 
-*Click the image above to watch the full project demonstration.*
+*A brief walkthrough of the Multi-Agent workflow and Gradio interface.*
 
 ## 🚀 Key Features
 ... (Baaki description yahan se shuru karein)
