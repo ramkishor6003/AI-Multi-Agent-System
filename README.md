@@ -24,7 +24,7 @@ An advanced AI-powered multi-agent system built with **LangGraph**, **Groq (Llam
 - **Stateful Memory**: Integrated `MemorySaver` to maintain seamless conversation context for follow-up queries.
 - **Interactive Web UI**: A clean dashboard built with **Gradio** for an intuitive user experience.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [LangChain](https://langchain.com) & [LangGraph](https://github.io)
 - **LLM**: Groq (Llama-3.3-70b-versatile)
@@ -36,7 +36,7 @@ An advanced AI-powered multi-agent system built with **LangGraph**, **Groq (Llam
 
 1. **Upload**: Open the `.ipynb` file in Google Colab.
 2. **Setup Keys**: 
-   - Go to **Secrets** (🔑 icon).
+   - Go to **Secrets** (icon).
    - Add `GROQ_API_KEY` and `TAVILY_API_KEY`.
    - Toggle **"Notebook access"** to ON.
 3. **Run**: Install dependencies and execute all cells to launch the interface.
@@ -48,7 +48,7 @@ The graph follows a structured state-machine logic:
 
 Each node communicates through a shared `MultiAgentState`, ensuring data integrity throughout the research process.
 
-## 📄 License
+## License
 
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for more details.
 
